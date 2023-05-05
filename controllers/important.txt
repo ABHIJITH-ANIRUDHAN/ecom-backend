@@ -1,0 +1,4 @@
+object destructring
+emp={id:1,name:'sonia'}
+const{id,name}=emp
+instead emp.id we can use id
